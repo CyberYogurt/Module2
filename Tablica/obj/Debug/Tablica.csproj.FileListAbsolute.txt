@@ -1,0 +1,12 @@
+C:\Users\DanyS\source\repos\Tablica\bin\Debug\Database1.mdf
+C:\Users\DanyS\source\repos\Tablica\bin\Debug\Database1_log.ldf
+C:\Users\DanyS\source\repos\Tablica\bin\Debug\Tablica.exe.config
+C:\Users\DanyS\source\repos\Tablica\bin\Debug\Tablica.exe
+C:\Users\DanyS\source\repos\Tablica\bin\Debug\Tablica.pdb
+C:\Users\DanyS\source\repos\Tablica\obj\Debug\Tablica.csprojAssemblyReference.cache
+C:\Users\DanyS\source\repos\Tablica\obj\Debug\Tablica.Form1.resources
+C:\Users\DanyS\source\repos\Tablica\obj\Debug\Tablica.Properties.Resources.resources
+C:\Users\DanyS\source\repos\Tablica\obj\Debug\Tablica.csproj.GenerateResource.cache
+C:\Users\DanyS\source\repos\Tablica\obj\Debug\Tablica.csproj.CoreCompileInputs.cache
+C:\Users\DanyS\source\repos\Tablica\obj\Debug\Tablica.exe
+C:\Users\DanyS\source\repos\Tablica\obj\Debug\Tablica.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablica", "Tablica.csproj", "{74284EE1-320D-4E0F-804D-77BE84E2096C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74284EE1-320D-4E0F-804D-77BE84E2096C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74284EE1-320D-4E0F-804D-77BE84E2096C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74284EE1-320D-4E0F-804D-77BE84E2096C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74284EE1-320D-4E0F-804D-77BE84E2096C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12020B1B-C780-4D85-8F7C-5C73083E390B}
+	EndGlobalSection
+EndGlobal
